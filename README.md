@@ -1,6 +1,5 @@
 ## Olá, eu me chamo Karol, muito prazer! 👩‍💻
-<h4>Estudante Full Stack apaixonada por tecnologia!</h4>
-<h4>Seja bem vindo(a) ao meu perfil do GitHub!</h4> 
+<h4>Estudante Full Stack apaixonada por tecnologia! Seja bem vindo(a) ao meu perfil do GitHub!</h4> 
 • 💻 Atualmente estou estudando Back-end e Front-end, desejo me tornar uma dev Full Stack sênior. <br>
 • 🎮 Possuo um grande amor por jogos, RDR2 e TLOU têm meu coração! <br>
 • 👩‍🍳 Culinária, esportes e arte nacional me fascinam. <br>
