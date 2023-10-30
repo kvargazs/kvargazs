@@ -1,4 +1,4 @@
-## Olá, eu me chamo Karol, muito prazer! 👩‍💻
+## Olá, me chamo Karol, muito prazer! 👩‍💻
 <h4>Sou estudante de desenvolvimento de software. Bem vindo(a) ao meu perfil do GitHub!</h4> 
 • 📚 Estudo desenvolvimento de back-end e front-end, desejo me tornar dev Full Stack. <br>
 • 🎮 Possuo um grande amor por jogos, RDR2 e TLOU THE BEST! <br>
