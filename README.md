@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Karol, muito prazer! 👩‍💻
 <h4>Estudante Full Stack apaixonada por tecnologia!</h4>
 <h4>Seja bem vindo(a) ao meu perfil do GitHub!</h4> 
-- Atualmente estou estudando Back-end e Front-end, desejo me tornar uma dev fullstack altamente qualificada 💻 <br>
+- Atualmente estou estudando Back-end e Front-end, desejo me tornar uma dev Full Stack sênior 💻 <br>
 - Possuo um grande amor por jogos, esportes, culinária, música e uma profunda apreciação por arte nacional 🎮 <br>
 - Tenho 18 anos e meus pronomes são ela/dela 👤 <br><br>
 
