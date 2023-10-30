@@ -1,9 +1,11 @@
 ## Olá, eu me chamo Karol, muito prazer! 👩‍💻
 <h4>Estudante Full Stack apaixonada por tecnologia!</h4>
 <h4>Seja bem vindo(a) ao meu perfil do GitHub!</h4> 
-- Atualmente estou estudando Back-end e Front-end, desejo me tornar uma dev Full Stack sênior 💻 <br>
-- Possuo um grande amor por jogos, esportes, culinária, música e uma profunda apreciação por arte nacional 🎮 <br>
-- Tenho 18 anos e meus pronomes são ela/dela 👤 <br><br>
+• Atualmente estou estudando Back-end e Front-end, desejo me tornar uma dev Full Stack sênior 💻 <br>
+• Possuo um grande amor por jogos, RDR2 e TLOU têm meu coração! 🎮 <br>
+• Esportes, culinária, música e arte nacional me fascinam 🏐 <br>
+• Tenho 18 anos e meus pronomes são ela/dela 👤 <br><br>
+
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kvargazs&show_icons=true&theme=tokyonight">
