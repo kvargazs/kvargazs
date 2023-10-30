@@ -2,7 +2,7 @@
 <h4>Estudante Full Stack com uma paixão ardente pela tecnologia!</h4>
 <h4>Seja bem vindo(a) ao meu perfil do GitHub!</h4> 
 - Atualmente estou estudando Back-end e Front-end, desejo me tornar uma dev fullstack altamente qualificada! 💻 <br>
-- Possuo um grande amor por jogos, esportes, amo culinária e uma profunda apreciação por músicas! 🎮 <br>
+- Possuo um grande amor por jogos, esportes, culinária, música e uma profunda apreciação por arte nacional! 🎮 <br>
 - Tenho 18 anos e meus pronomes são ela/dela! 👤 <br><br>
 
 <div>
