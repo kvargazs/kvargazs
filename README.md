@@ -1,7 +1,7 @@
 ## Olá, me chamo Karol, muito prazer! 👩‍💻
 <h4>Sou estudante de desenvolvimento de software. Bem vindo(a) ao meu perfil do GitHub!</h4> 
 • 📚 Estudo desenvolvimento de back-end e front-end, desejo me tornar dev Full Stack. <br>
-• 🎮 Possuo um grande amor por jogos, RDR2 e TLOU THE BEST! <br>
+• 🎮 Possuo um grande amor por jogos, RDR2 e TLOU ARE THE BEST! <br>
 • 👩‍🍳 Culinária, esportes e arte nacional me fascinam. <br>
 • 🎧 Bem provável que eu esteja de fone escutando música. <br>
 • 🙂 Tenho 18 anos e meus pronomes são ela/dela. <br><br>
