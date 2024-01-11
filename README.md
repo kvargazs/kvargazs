@@ -1,6 +1,6 @@
 ## Olá, me chamo Karol, muito prazer! 👩‍💻
 <h4>Sou estudante de desenvolvimento de software. Bem vindo(a) ao meu perfil do GitHub!</h4> 
-• 📚 Atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela UniRitter! <br>
+• 📚 Atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela UniRitter. <br>
 • 🎮 Possuo um grande amor por jogos, quem sabe um dia... <br>
 • 🙂 Tenho 18 anos e meus pronomes são ela/dela. <br><br>
 
