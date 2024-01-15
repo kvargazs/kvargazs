@@ -6,7 +6,7 @@ Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Siste
 <br><br>
 
 <div>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvargazs&layout=compact&theme=tokyonight">
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvargazs&layout=compact&theme=gotham">
 </div>
 
 #### Tecnologias 💻
