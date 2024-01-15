@@ -1,22 +1,43 @@
 <img src="assets/img/header.png">
-<h4>Sou Jr Developer. Bem vindo(a) ao meu perfil do GitHub!</h4> 
-📚 Atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela UniRitter. <br>
-🎮 Possuo um grande amor por jogos, quem sabe um dia... <br>
-🙂 Tenho 18 anos e meus pronomes são ela/dela. <br><br>
+<h3>👋 Sou Jr Developer. Bem vindo(a) ao meu perfil do GitHub!</h3> 
+Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela UniRitter em Porto Alegre - RS/Brasil. Possuo um grande amor por jogos, quem sabe um dia... Meus pronomes são ela/dela! <br><br>
 
+🌐 Meu web-portfólio: https://portfolio-kvargazs.vercel.app
+<br><br>
 
 <div>
-  <img height="170rem" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvargazs&layout=compact&theme=tokyonight">
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvargazs&layout=compact&theme=tokyonight">
 </div>
   
 <div style="display: inline_block">
   <h4>Tecnologias 💻</h4>
-  <img align="center" alt="Karol-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Karol-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Karol-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Karol-Git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Karol-Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Karol-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Karol-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Karol-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Karol-bootstrap" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Karol-jquery" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="Karol-Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Karol-Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Karol-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
+
+<div style="display: inline_block">
+  <h4>Tecnologias que estou estudando atualmente 📚</h4>
+  <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Karol-mySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Karol-PostgrSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="Karol-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Karol-typescript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
+
+<div style="display: inline_block">
+  <h4>IDE 📂</h4>
+  <img align="center" alt="Karol-vscode" height="45" width="45" margin="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Karol-intellij" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+</div>
+
 
 ##
 
