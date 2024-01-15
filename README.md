@@ -19,7 +19,8 @@ Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Siste
   <img align="center" alt="Karol-Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Karol-Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Karol-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>&nbsp;
 
 #### Estudando atualmente 📚
