@@ -3,7 +3,7 @@
 Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela UniRitter em Porto Alegre - RS/Brasil. Possuo um grande amor por jogos, quem sabe um dia... Meus pronomes são ela/dela! <br><br>
 
 🌐 **Meu web-portfólio:** https://portfolio-kvargazs.vercel.app
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 
 <div>
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvargazs&layout=compact&theme=gotham">
