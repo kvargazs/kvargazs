@@ -21,7 +21,9 @@ Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Siste
   <img align="center" alt="Karol-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
+
 ##
+
 <div style="display: inline_block">
   <h4>Tecnologias que estou estudando atualmente 📚</h4>
   <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -31,13 +33,14 @@ Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Siste
   <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Karol-typescript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
+
 ##
+
 <div style="display: inline_block">
   <h4>IDE 📂</h4>
   <img align="center" alt="Karol-vscode" height="45" width="45" margin="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Karol-intellij" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
-
 
 ##
 
