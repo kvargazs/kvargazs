@@ -20,7 +20,7 @@ Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Siste
   <img align="center" alt="Karol-Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Karol-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
+</div>&nbsp;
 
 #### Tecnologias que estou estudando atualmente 📚
 <div style="display: inline_block">
@@ -30,7 +30,7 @@ Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Siste
   <img align="center" alt="Karol-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Karol-typescript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
+</div>&nbsp;
 
 #### IDE 📂
 <div style="display: inline_block">
