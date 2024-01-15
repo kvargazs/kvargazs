@@ -3,7 +3,7 @@
 Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela UniRitter em Porto Alegre - RS/Brasil. Possuo um grande amor por jogos, quem sabe um dia... Meus pronomes são ela/dela! <br><br>
 
 🌐 **Meu web-portfólio:** https://portfolio-kvargazs.vercel.app
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div>
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvargazs&layout=compact&theme=gotham">
@@ -22,7 +22,7 @@ Tenho 18 anos, atualmente estou graduando em Análise e Desenvolvimento de Siste
   <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>&nbsp;
 
-#### Tecnologias que estou estudando atualmente 📚
+#### Estudando atualmente 📚
 <div style="display: inline_block">
   <img align="center" alt="Karol-Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Karol-mySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
