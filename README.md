@@ -1,6 +1,6 @@
 <img src="assets/img/header.png">
 <h3>👋 Sou Jr Developer. Bem vindo(a) ao meu perfil do GitHub!</h3> 
-Tenho 19 anos, atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos em Porto Alegre - RS/Brasil. Possuo um grande amor por jogos, quem sabe um dia... Meus pronomes são ela/dela! <br><br>
+Tenho 20 anos, atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos em Porto Alegre - RS/Brasil. Possuo um grande amor por jogos, quem sabe um dia... Meus pronomes são ela/dela! <br><br>
 
 🌐 **Meu web-portfólio:** https://portfolio-kvargazs.vercel.app
 <br>
