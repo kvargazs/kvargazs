@@ -27,8 +27,8 @@ Tenho 20 anos, atualmente estou graduando em Análise e Desenvolvimento de Siste
 #### Estudando atualmente 📚
 <div style="display: inline_block">
   <img align="center" alt="Karol-Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="Karol-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  <img align="center" alt="Karol-PostgrSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />&nbsp;&nbsp;
+  <img align="center" alt="Karol-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img align="center" alt="Karol-mySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
   <img align="center" alt="powerapps" height="45" width="45" src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png"/>&nbsp;&nbsp;
 </div>&nbsp;
 
